@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\workspace\UIListViewTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_554f125f9332b7e0d69319945d3d5d7b552fb746\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\workspace\UIListViewTest1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4220e4c6f349ee6720eda786aa98003d998d44f0">
+        <dex dex="D:\Android\workspace\UIListViewTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee42760f62cdeaf6ba3f41cc96b5a57fc06bfa34\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\workspace\UIListViewTest1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cf8ea9586455b93784dbae38f0270efa9ae331b2">
+        <dex dex="D:\Android\workspace\UIListViewTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b842ad545b403a7c3f9b1e8c37470ae28c081232\classes.dex" />
+    </item>
+
+</items>

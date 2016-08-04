@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\UIListViewTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fruit_item.xml",
+        "source": "D:\\Android\\workspace\\UIListViewTest1\\app\\src\\main\\res\\layout\\fruit_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\UIListViewTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\workspace\\UIListViewTest1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
